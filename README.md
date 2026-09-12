@@ -210,7 +210,7 @@ Screenshots of the website are included below to showcase the final user interfa
 
 ### Aboutpage
 
-![about-page]()
+![about-page](screenshots/about-page.png)
 
 ---
 
