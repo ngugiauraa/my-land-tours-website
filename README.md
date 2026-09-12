@@ -196,15 +196,21 @@ Screenshots of the website are included below to showcase the final user interfa
 
 ### Homepage
 
-> Screenshot coming soon.
+![homepage-desktop]()
 
 ### Mobile Experience
 
-> Screenshot coming soon.
+![homepage-mobile]()
 
 ### Booking Experience
 
-> Screenshot coming soon.
+![booking-form]()
+
+![packages]()
+
+### Aboutpage
+
+![about-page]()
 
 ---
 
