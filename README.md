@@ -196,17 +196,17 @@ Screenshots of the website are included below to showcase the final user interfa
 
 ### Homepage
 
-![homepage-desktop]()
+![homepage-desktop](screenshots/homepage-desktop.png)
 
 ### Mobile Experience
 
-![homepage-mobile]()
+![homepage-mobile](screenshots/homepage-mobile.png)
 
 ### Booking Experience
 
-![booking-form]()
+![booking-form](screenshots/booking-form.png)
 
-![packages]()
+![packages](screenshots/packages.png)
 
 ### Aboutpage
 
